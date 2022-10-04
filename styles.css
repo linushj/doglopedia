@@ -10,9 +10,10 @@ body {
     padding: 20px;
     margin-top: 20px;
     color: rgb(94, 94, 94);
+    font-size: 17px;
 }
 
-img {
+#headimg {
     border-radius: 50%;
     height: 300px;
     width: 300px;
@@ -56,6 +57,7 @@ ul {
 
 #subheading {
     font-family: monospace;
+    color: rgb(120, 120, 120);
 }
 
 .p {
