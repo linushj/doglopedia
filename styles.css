@@ -15,7 +15,7 @@ img {
     border-radius: 50%;
     height: 300px;
     width: 300px;
-    border: black solid 1px;
+    border: rgb(94, 94, 94) solid 1px;
     border-bottom-width: 2px;
 }
 
@@ -45,6 +45,8 @@ ul {
 .h3 {
     font-style: italic;
     font-family: helvetica;
+    text-decoration: underline;
+    font-weight: 100;
 }
 
 .copyright {
