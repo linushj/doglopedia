@@ -22,6 +22,7 @@ img {
 li {
     display: inline-block;
     padding: 5px 25px 20px 25px;
+    font-family: helvetica;
 }
 
 a {
@@ -33,7 +34,7 @@ ul {
 }
 
 #endline {
-    padding-bottom: 20px;
+    padding-top: 10px;
     border-bottom: 1px solid rgb(94, 94, 94);
 }
 
@@ -43,4 +44,22 @@ ul {
 
 .h3 {
     font-style: italic;
+    font-family: helvetica;
+}
+
+.copyright {
+    font-family: monospace;
+}
+
+#subheading {
+    font-family: monospace;
+}
+
+.p {
+    font-family: monospace;
+}
+
+#title {
+    font-family: helvetica;
+    font-weight: 100;
 }
